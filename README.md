@@ -30,44 +30,44 @@ Include:
 
 # Screenshots
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/899315de-beb9-452b-ae1e-6001786cce5c" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/3fb65e34-58aa-46bd-a19f-8a8e9f6cc8bb" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/99f5dd80-750b-471e-8ee2-dec8b3b04b5f" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/6b5149f7-67a8-45d5-8ec8-6d4b2bad4865" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/2980011c-87da-40e9-b770-a98e5d48a444" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/c85336fe-a13c-42cd-9609-adb9d35a0ec1" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/22a77935-0c4f-4a80-8f18-ff83e79de18c" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/baa00fda-e47a-4209-b590-77a80b1f88e0" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/8d307c94-5ef3-417f-9d4f-8e956d17af5e" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/1857ec4b-e1c6-463c-9d42-5147d05748b7" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/3dcae77a-b2c2-4883-9a31-bf3a1e010229" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/474ccb47-c6ff-4e5e-8066-61ed9a70d6e2" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/9f07c953-a858-4f72-a60a-61705e5f70d6" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/995bcf59-8429-4dd9-a7f6-4c50acc50c95" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/386f9ba5-4a60-4648-a60b-5065aff26ba4" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/931a8157-9e4f-45d4-b8a1-4adc8c089353" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/8e1e0e85-7d48-4b2e-abe2-8b1c8e1de3a1" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/40f75bb5-224a-4850-9fb0-07d5113db331" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/2bdcc0c4-dd2e-4a58-8384-ada50f4954fd" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/e7c2ea38-f7b0-4245-abc9-f0232910600a" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/30286c80-6c52-4ff4-87cc-f40cb45b9d59" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/3e99b4ff-e5c9-4ce5-878f-d79ed3060534" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/972befa3-03e4-4784-aa6c-39a8769c2529" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/410f0936-3479-4fd1-b1fc-a6c4d0dd3b9c" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/66dc1755-0fc7-42e3-ab08-4410d4abcbba" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/237819fb-1450-4c17-b4dc-982d7fe2ec3a" width="300" height="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/d10d5246-f1fe-4896-af60-1430e6fdca8a" width="300" height="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/ea658a75-b59d-460a-91a5-eed2ca51f5ad" width="300" height="600">
 
 
 
 ## Admin Screens
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/f66f62d9-60d9-4002-adab-81a71c567329" width="300" hight="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/58d5b604-fba6-49ed-b443-9b1df4fc5c3a" width="300" hight="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/c78eb7d6-3519-4893-8412-9627a77677f8" width="300" hight="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/3d978e68-af32-4c4c-a106-98f40e5925ab" width="300" hight="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/2fb170ac-2f43-4a6f-8a7d-4ebf1e6bf86a" width="300" hight="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/97c15ad5-02bc-420d-a939-f96ce5169aee" width="300" hight="600">
 
-<img src="https://github.com/Khadar3344/Blood-bank/assets/79355446/adf32392-3369-4695-8a99-d82e7b56bb61" width="300" hight="600">
+<img src="https://github.com/Khadar3344/Blood-Bank/assets/79355446/d994600c-4d82-461f-bbdc-f009517b4e6f" width="300" hight="600">
 
 
