@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:theme="@style/Theme.BloodBank"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/boarder"
+            android:backgroundTint="@color/primary_dark"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:text="@string/why_should_you_donate_blood"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/info_"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/at_least_you_can_donate"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/boarder"
+            android:backgroundTint="@color/primary_dark"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:textColor="@color/white"
+            android:text="@string/eligibility_"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/male_"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/common_google_signin_btn_text_dark_default"
+            android:gravity="start"
+            android:padding="10dp"
+            android:text="@string/female_"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>

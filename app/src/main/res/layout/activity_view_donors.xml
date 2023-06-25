@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent_black_ten_percent"
+    tools:context=".ui.activities.ViewDonorsActivity">
+
+    <com.example.bloodbank.utils.MSPTextViewBold
+        android:id="@+id/tv_total_donors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginEnd="20sp"
+        android:text="عدد المتبرعين:"
+        android:textSize="@dimen/et_padding"
+        android:textColor="@color/colorPrimary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <com.example.bloodbank.utils.MSPTextViewBold
+        android:id="@+id/total_donors"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10sp"
+        android:layout_marginStart="20sp"
+        android:textSize="@dimen/et_padding"
+        android:textColor="@color/colorPrimary"
+        android:text="0"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerDonors"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50sp"
+        app:layout_constraintTop_toBottomOf="@+id/total_donors"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

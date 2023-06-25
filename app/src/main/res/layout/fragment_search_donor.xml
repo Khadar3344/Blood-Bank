@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/Theme.BloodBank"
+    tools:context=".ui.fragments.SearchDonorFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/blood_group"
+                    android:padding="10dp"
+                    android:textColorHint="@color/colorSecondaryText">
+
+                    <AutoCompleteTextView
+                        android:id="@+id/autoCompleteTextView_get_blood_group"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="none"
+                        android:padding="10dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <com.example.bloodbank.utils.MSPTextViewBold
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:padding="5dp"
+                    android:text="@string/choose_blood_group" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_width="250dp"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_State"
+                    android:padding="10dp"
+                    android:textColorHint="@color/colorSecondaryText">
+
+                    <AutoCompleteTextView
+                        android:id="@+id/autoCompleteTextView_get_state"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="none"
+                        android:padding="10dp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+                <com.example.bloodbank.utils.MSPTextViewBold
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:padding="5dp"
+                    android:text="@string/choose_your_state" />
+            </LinearLayout>
+
+            <com.example.bloodbank.utils.MSPButton
+                android:id="@+id/btnSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/button_background"
+                android:gravity="center"
+                android:text="@string/btn_search_donor"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/show_donor_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

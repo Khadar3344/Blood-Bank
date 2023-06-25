@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بنك الدم</string>
+
+    <string name="title_login">تسجيل الدخول</string>
+    <string name="et_hint_email_id">البريد الألكتروني</string>
+    <string name="et_hint_password">كلمة المرور</string>
+    <string name="lbl_forgot_password">"نسيت كلمة المرور؟ "</string>
+    <string name="btn_lbl_login">تسجيل الدخول</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="register"><u>إنشاء حساب</u></string>
+
+
+    <string name="create_an_account">إنشاء حساب</string>
+
+    <string name="hint_full_name">الإسم كامل</string>
+    <string name="et_hint_confirm_password">تأكيد كلمة المرور</string>
+    <string name="hint_phone_number">رقم الهاتف</string>
+    <string name="hint_address">العنوان</string>
+    <string name="hint_State">الولاية</string>
+
+    <string name="btn_lbl_register">إنشاء حساب</string>
+
+    <string name="btn_lbl_update_profile">تحديث الملف الشخصي</string>
+
+    <string name="already_have_an_account">لديك حساب مسبق؟</string>
+    <string name="login"><u>تسجيل الدخول</u></string>
+
+    <string name="err_msg_enter_full_name">الرجاء إدخال كلمة الإسم كاملا</string>
+    <string name="err_msg_enter_email">الرجاء إدخال البريد الإلكنروني</string>
+    <string name="err_msg_enter_password">الرجاء إدخال كلمة المرور</string>
+    <string name="err_msg_enter_confirm_password">الرجاء إدخال تأكيد كلمة المرور</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">عدم تطابق كلمة المرور مع تأكيد المرور</string>
+    <string name="registery_successfull">شكرا لتسجيلك</string>
+
+    <string name="please_wait">"أرجو الإنتظار &#8230; "</string>
+
+    <string name="title_forgot_password">نسيت كلمة المرور</string>
+    <string name="forgot_password_title_description">أدخل عنوان بريدك الإلكتروني وسنرسل لك بريدًا إلكترونيًا لإعادة تعيين كلمة المرور الخاصة بك</string>
+    <string name="btn_lbl_submit">إرسال</string>
+
+    <string name="email_sent_success">\"تم إرسال البريد الإلكتروني بنجاح لإعادة تعيين كلمة المرور الخاصة بك!\"</string>
+    <string name="register_success">لقد تم تسجيلك بنجاح.</string>
+
+
+    <string name="title_edit_profile">تعديل الملف الشخصي</string>
+    <string name="et_hint_mobile_number">رقم الهاتف</string>
+    <string name="sex">الجنس</string>
+    <string name="rb_lbl_male">ذكر</string>
+    <string name="rb_lbl_female">أنثى</string>
+    <string name="btn_lbl_save">حفظ</string>
+
+
+    <string name="err_msg_enter_address">الرجاء إدخال العنوان.</string>
+
+    <string name="err_msg_enter_mobile_number">الرجاء إدخال رقم الهاتف</string>
+
+    <string name="msg_profile_update_success">تم تحديث الملف التعريف الخاص بك بنجاح.</string>
+
+    <string name="lbl_edit">تعديل</string>
+    <string name="lbl_addresses">العناوين</string>
+    <string name="btn_lbl_logout">تسجيل الخروج</string>
+
+    <string-array name="state_list">
+        <item>الخرطوم</item>
+        <item>الجزيرة</item>
+        <item>البحر الأحمر</item>
+        <item>كسلا</item>
+        <item>القضارف</item>
+        <item>سنار</item>
+        <item>نيل الأبيض</item>
+        <item>نيل الأزرق</item>
+        <item>الشمالية</item>
+        <item>نهر النيل</item>
+        <item>شمال كردفان</item>
+        <item>غرب كردفان</item>
+        <item>جنوب كردفان</item>
+        <item>شمال دارفور</item>
+        <item>غرب دارفور</item>
+        <item>جنوب دارفور</item>
+        <item>شرق دارفور</item>
+        <item>وسط دارفور</item>
+
+    </string-array>
+
+    <array name="sex">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </array>
+
+    <array name="Blood_Group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </array>
+
+    <string name="blood_group">فصيلة الدم</string>
+    <string name="check_box_text">إضغط هنا لتكون متبرعا.</string>
+
+    <string name="check_box_un_mark">"قم بإلغاء تحديد للمغادرة من المتبرعين. "</string>
+
+    <string name="home">الرئيسية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="achiev">الإنجازات</string>
+    <string name="lgout">تسجيل الخروج</string>
+
+    <string name="nearH">البحث عن أقرب المستشفيات</string>
+    <string name="fndBlood">البحث عن متبرع بالدم</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="post_request">نشر</string>
+    <string name="post_text">ملاحظة: يمكنك طلب الدم مرة واحدة فقط.\nسيقوم طلب الدم التالي بتحديث طلبك السابق.</string>
+    <string name="post_blood_request">نشر طلب الدم</string>
+    <string name="post_blood_success">تم نشر طلب الدم بنجاح</string>
+    <string name="blood_request">طلبات الدم</string>
+
+    <string name="btn_update_profile">تحديث الملف الشخصي</string>
+    <string name="profile_toolbar_text">الملف الشخصي</string>
+    <string name="you_are_not_donor">أنت لست متبرعا! \nكن متبرعا وانقذ الحياة من خلال التبرع بالدم.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="have_you_donated_today">هل تبرعت اليوم؟</string>
+    <string name="be_donor_to_achieve">أنت لست متبرعا.\n كن متبرعًا أولا كي تنجز !</string>
+    <string name="btn_lbl_yes_achievement">نعم</string>
+    <string name="btn_lbl_no_achievement">لا</string>
+    <string name="total_donated">إجمالي التبرعات:</string>
+    <string name="last_donated">آخر تبرع:</string>
+    <string name="do_not_donate_yet">لم يتبرع بعد!</string>
+    <string name="donate_times">0 مرة</string>
+    <string name="reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="next_donate">التبرع التالي متاح بعد:</string>
+    <string name="donate_success">تم التبرع بنجاح</string>
+    <string name="update_your_profile_to_be_donor">قم بتحديث ملفك الشخصي لتكون متبرعًا أولاً.</string>
+    <string name="choose_blood_group">إختر فصيلة الدم</string>
+    <string name="choose_your_state">إختر الولاية</string>
+    <string name="btn_search_donor">البحث</string>
+    <string name="donor_name">إسم المتبرع</string>
+    <string name="contact_number">رقم الاتصال</string>
+    <string name="location">الموقع</string>
+    <string name="total_donation">إجمالي التبرع</string>
+    <string name="last_donation">آخر تبرع</string>
+
+    <string name="info_">التبرع بالدم ينقذ الأرواح. الدم الذي تقدمه هو شريان الحياة في حالات الطوارئ وللأشخاص الذين يحتاجون إلى علاجات طويلة الأمد. لن يكون الكثير من الناس على قيد الحياة اليوم إذا لم يتبرع المتبرعون بدمائهم بسخاء.\n\n  لماذا نريد منك التبرع بالدم؟\n\n    نحتاج إلى أكثر من 6000 تبرع بالدم كل يوم لعلاج المرضى المحتاجين للتبرع بالدم.\n\n  نحتاج كل عام إلى ما يقرب من 200000 متبرع جديد ، حيث لم يعد بإمكان بعض المتبرعين التبرع بالدم ، ومعظم الأشخاص الذين تتراوح أعمارهم بين 17 و 65 عامًا قادرون على التبرع بالدم. ما يقرب من نصف المتبرعين الحاليين لدينا تزيد أعمارهم عن 45 عامًا ، ولهذا السبب نحتاج إلى المزيد من الشباب لبدء التبرع بالدم.  أقــل فــــترة مســــموح بها بين كل تبرعين ثمــــانية أســــابيع، على ألا تزيد مرات التبرع عن خمس مرات في العام الواحد.\n</string>
+    <string name="eligibility_">متطلبات الأهلية</string>
+    <string name="male_">إذا كنت ذكرًا ، فيجب عليك: \n أن تكون بصحة جيدة وتشعر بتحسن \n أن تكون 17 عامًا على الأقل في معظم الولايات \n كن على الأقل 5 أقدام و 1 بوصة \n أن تزن 58.967 كجم على الأقل. \n</string>
+    <string name="female_">إذا كنتي أنثى ، يجب عليكي: \n أن تكوني بصحة جيدة وتشعرين بتحسن \n كوني على الأقل 17 عامًا في معظم الولايات \n أن تكوني على الأقل 5 أقدام و 5 بوصات \n أن تزني 68.0389 كجم على الأقل.</string>
+
+    <string name="aboutUs">لتواصل مع فريق العمل عبر البريد الإلكتروني :\n\n khadarmustafa11@gmail.com</string>
+    <string name="bloodinfo">معلومات عن التبرع بالدم</string>
+    <string name="devinfo">عنا نحن</string>
+    <string name="information">المعلومات</string>
+    <string name="about_us">عنا نحن</string>
+    <string name="nearestHospital">أقرب مستشفى</string>
+    <string name="why_should_you_donate_blood">لماذا يجب أن تتبرع بالدم؟</string>
+    <string name="blood_type">فصيلة الدم</string>
+    <string name="needed_for">مطلوب ل</string>
+    <string name="contact">إتصال</string>
+    <string name="share">مشاركة</string>
+    <string name="content_description">Image</string>
+    <string name="please_click_back_again_to_exit">أرجوا الضغط مرة أخرى للخروج</string>
+    <string name="at_least_you_can_donate">ملاحظة: في هذا التطبيق يمكنك التبرع مرة أخرى كل بعد 120 يوما.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_admin">المدير</string>
+    <string name="btn_lbl_view_patients">عرض المرضى</string>
+    <string name="btn_lbl_view_donors">عرض المتبرعين</string>
+    <string name="btn_lbl_reports">إستخراج التقارير</string>
+    <string name="patient_name">إسم المريض</string>
+    <string name="delete">حذف</string>
+    <string name="update">تعديل</string>
+    <string name="add">إضافة</string>
+    <string name="btn_lbl_patients">المرضى</string>
+    <string name="btn_lbl_donors">المتبرعين</string>
+    <string name="btn_lbl_blood_request">طلبات الدم</string>
+    <string name="btn_lbl_blood_donated">تبرع الدم</string>
+
+</resources>
